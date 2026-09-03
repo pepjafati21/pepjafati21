@@ -1,60 +1,117 @@
-# 👋 Hi, I'm Fabianux Jafati Abadi
+<div align="center">
 
-### 💻 Software Developer in Progress | Student & Programming Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Fabianux%20Jafati%20Abadi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-> Passionate about programming, learning new technologies, and building things with code.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Junior+Developer;Programming+Enthusiast;Always+Learning+%F0%9F%9A%80" />
 
----
+<br>
 
-## 🧑‍💻 About Me
-
-I'm a Software Engineering student at **SMK IDN Boarding School** with a strong interest in the world of programming and software development.
-
-I enjoy exploring different technologies, improving my coding skills, and turning ideas into functional projects. 🚀
-
----
-
-## 🛠️ Languages & Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=pepjafati21&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 👋 About Me
 
-<p align="left">
-  <a href="http://wa.me/+6281996220909">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fabianux-jafati-abadi-386a822bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="http://github.com/pepjafati21/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:fabianbucek@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
+
+> **"Turning ideas into code, one project at a time."**
+
+</div>
+
+I'm **Fabianux Jafati Abadi**, a Software Engineering student at **SMK IDN Boarding School** who is passionate about programming and software development.
+
+I enjoy learning new technologies, experimenting with code, and building projects that turn ideas into something real. 🚀
 
 ---
 
-### 🚀 Keep Learning. Keep Building. Keep Growing.
+## ⚡ Tech Stack
 
-*"Code is not just about solving problems — it's about creating possibilities."*
+<div align="center">
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=php,js,python,html,css,cpp&theme=dark" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Currently%20Learning-Software%20Development-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pepjafati21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepjafati21&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pepjafati21&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pepjafati21/pepjafati21/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pepjafati21&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="http://wa.me/+6281996220909">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fabianux-jafati-abadi-386a822bb/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="http://github.com/pepjafati21/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:fabianbucek@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Keep Coding. Keep Learning. Keep Building.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
